@@ -23,6 +23,3 @@ class BroadcastStateReceiver: BroadcastReceiver() {
     }
 
 }
-
-class RunningService:Ser {
-}
